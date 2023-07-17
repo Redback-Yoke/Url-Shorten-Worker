@@ -38,3 +38,6 @@ https://lnks.eu.org/
 Note: Because someone abuse this demo website, all the generated link will automatically expired after 24 hours. For long-term use, please deploy your own.
 
 注意：所有由Demo网站生成的链接24小时后会自动失效，如需长期使用请自行搭建。
+
+------yoke----
+在index.js中178行的网址需要改掉：return Response.redirect("https://kjkkk.top,302)
